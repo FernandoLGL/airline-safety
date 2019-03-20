@@ -73,47 +73,47 @@ Source: https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_17
 
 ### Incidents
 
-![top_nincidents_85_14](top_nincidents_85_99.png)
+![top_nincidents_85_14](images/top_nincidents_85_99.png)
 
 
 
 
 
-![top_nincidents_00_14](top_nincidents_00_14.png)
+![top_nincidents_00_14](images/top_nincidents_00_14.png)
 
 
 
 
 
-![top_nincidents_85_14](top_nincidents_85_14.png)
+![top_nincidents_85_14](images/top_nincidents_85_14.png)
 
 ### Fatal Accidents
 
-![top_nfatalacc_85_99](top_nfatalacc_85_99.png)
+![top_nfatalacc_85_99](images/top_nfatalacc_85_99.png)
 
 
 
 
 
-![top_nfatalacc_00_14](top_nfatalacc_00_14.png)
+![top_nfatalacc_00_14](images/top_nfatalacc_00_14.png)
 
 
 
-![top_nfatalacc_85_14](top_nfatalacc_85_14.png)
+![top_nfatalacc_85_14](images/top_nfatalacc_85_14.png)
 
 
 
 ### Fatalities
 
-![top_nfatalities_85_99](top_nfatalities_85_99.png)
+![top_nfatalities_85_99](images/top_nfatalities_85_99.png)
 
 
 
-![top_nfatalities_00_14](top_nfatalities_00_14.png)
+![top_nfatalities_00_14](images/top_nfatalities_00_14.png)
 
 
 
-![top_nfatalities_85_14](top_nfatalities_85_14.png)
+![top_nfatalities_85_14](images/top_nfatalities_85_14.png)
 
 
 
